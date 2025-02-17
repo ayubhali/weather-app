@@ -36,14 +36,3 @@ A modern and responsive weather application built with React and Vite that provi
 - OpenWeather API
 - CSS3 with Flexbox
 
-## Environment Variables
-
-Copy `.env.example` to `.env` and add your OpenWeather API key:
-
-```
-VITE_APP_ID=your_api_key_here
-```
-
-## License
-
-MIT
