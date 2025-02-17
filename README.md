@@ -2,7 +2,7 @@
 
 A modern and responsive weather application built with React and Vite that provides real-time weather information using the OpenWeather API.
 
-![Weather App Screenshot](src/assets/WeatherApp.png)
+![Weather App Screenshot](src/assets/WeatherAPP.png)
 
 ## Features
 
